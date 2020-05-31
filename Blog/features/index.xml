@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Manjaro - enjoy the simplicity</title>
+    <link>/features/</link>
+    <description>Recent content in Features on Manjaro - enjoy the simplicity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2016 00:36:21 +0200</lastBuildDate>
+    
+	<atom:link href="/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configured With One Click</title>
+      <link>/features/configured-with-one-click/</link>
+      <pubDate>Tue, 06 Sep 2016 00:36:21 +0200</pubDate>
+      
+      <guid>/features/configured-with-one-click/</guid>
+      <description>Manjaro comes with its own tools that help you configuring your computer the way you want - without searching for scattered settings across the whole system and looking things up on the internet. Just open the system control panel, open the tool and select what you want.</description>
+    </item>
+    
+    <item>
+      <title>Useful For Everyone</title>
+      <link>/features/useful-for-everyone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/useful-for-everyone/</guid>
+      <description>Manjaro is an efficient companion to serve your variety of needs and it is versatile to adapt to all of your needs. Our user base varies from home users to students &amp;amp; teachers, programmers &amp;amp; developers, professionals, art enthusiast, music lovers, multimedia professionals and many more, For a overview of all available applications visit discover.manjaro.org.
+We asked our users why they use Manjaro and what software they use to relax, learn or do their work.</description>
+    </item>
+    
+    <item>
+      <title>Fresh &amp; Stable</title>
+      <link>/features/fresh-and-stable/</link>
+      <pubDate>Tue, 06 Sep 2016 00:36:21 +0200</pubDate>
+      
+      <guid>/features/fresh-and-stable/</guid>
+      <description>Manjaro is based on the independently developed Arch operating system. Within the Linux community, Arch itself is renowned for being an exceptionally fast, powerful, and lightweight distribution that provides access to the very latest cutting edge – and bleeding edge – software. However, Arch is also aimed at more experienced or technically-minded users. As such, it is generally considered to be beyond the reach of those who lack the technical expertise (or persistence) required to use it.</description>
+    </item>
+    
+    <item>
+      <title>Scientists</title>
+      <link>/features/usercases/scientists/</link>
+      <pubDate>Mon, 05 Sep 2016 15:08:14 +0200</pubDate>
+      
+      <guid>/features/usercases/scientists/</guid>
+      <description>Manjaro&amp;rsquo;s repositories contain the latest available versions of popular software like the statistic language R, the scripting language Python and more. Also LaTeX, additional packages for it and software like Lyx or TeXstudio are readily available and can be installed with just a few clicks. With LaTeX scientists can create high-quality documents and presentations with included math-formulas, chemical molecules, self-updating cross- and literature references and more without being restrained by a specific style or document type.</description>
+    </item>
+    
+    <item>
+      <title>Gamers</title>
+      <link>/features/usercases/gamers/</link>
+      <pubDate>Mon, 05 Sep 2016 15:08:09 +0200</pubDate>
+      
+      <guid>/features/usercases/gamers/</guid>
+      <description>Manjaro comes preinstalled with Steam, so there&amp;rsquo;s no need to go to a website and download it manually. Installing drivers, updates and more applications is handled through the package manager and Manjaro Hardware Detection Tool that will do all operations in just a couple of minutes and never requires or forces a restart of the system, unless you update the kernel.
+Due to the design of Linux, hardware like Gamepads are recognized instantaneously if drivers are available, so users don&amp;rsquo;t have to wait until it works.</description>
+    </item>
+    
+    <item>
+      <title>Teachers and Students</title>
+      <link>/features/usercases/students/</link>
+      <pubDate>Mon, 05 Sep 2016 15:08:06 +0200</pubDate>
+      
+      <guid>/features/usercases/students/</guid>
+      <description>Manjaro&amp;rsquo;s repository of free and quality software is filled with programs for each subject. For mathematics, simple to advanced calculations can be done using scientific calculators like Qalculate! or SpeedCrunch that don&amp;rsquo;t just copy the experience of most hardware-calculators, but allow free editing of functions and terms.
+For more complex mathematics, Cantor Teachers love Geogebra to show physics, trigonometry, vector operations and more for its easy-to-use graphical editing of mathematical relations, plotting of functions and setting constraints.</description>
+    </item>
+    
+    <item>
+      <title>Developers</title>
+      <link>/features/usercases/developers/</link>
+      <pubDate>Mon, 05 Sep 2016 15:08:00 +0200</pubDate>
+      
+      <guid>/features/usercases/developers/</guid>
+      <description>Manjaro comes in many different editions, all with a unique workflow and user experience from a traditional desktop environment to window managers that are optimized for maximum performance and work efficiency.
+The system is set up easily, while giving developers all the freedom and space to tinker when wanted. All tools to compile and develop software are pre installed. The integrated package manager allows easy installation of IDEs like Qt Creator, KDevelop or Netbeans and libraries like libnoise, boost or matplotlib.</description>
+    </item>
+    
+    <item>
+      <title>Linux Beginners</title>
+      <link>/features/usercases/beginners/</link>
+      <pubDate>Mon, 05 Sep 2016 15:07:56 +0200</pubDate>
+      
+      <guid>/features/usercases/beginners/</guid>
+      <description>Manjaro comes pre installed with a collection of software that makes all daily tasks possible without even searching for them. If some application is not installed, more software can easily and securely be installed via the integrated package manager (software center): Just search for e.g. &amp;ldquo;Office&amp;rdquo;, &amp;ldquo;Music&amp;rdquo; or &amp;ldquo;Internet&amp;rdquo;, select or tick what should be installed and everything else will be done automatically for you.
+All this software is also completely free and will be updated alongside Manjaro.</description>
+    </item>
+    
+    <item>
+      <title>Artists</title>
+      <link>/features/usercases/artists/</link>
+      <pubDate>Mon, 05 Sep 2016 15:07:44 +0200</pubDate>
+      
+      <guid>/features/usercases/artists/</guid>
+      <description>Manjaro comes preinstalled with GIMP, a very powerful image manipulation program. For drawing Krita will fulfill most of your needs, while Darktable brings a top-notch and free photography suite. Vector-graphics can be done with programs such as Inkscape.
+For simple or advanced video-editing, Kdenlive and OpenShot will do almost anything you need.
+3D-Modelling can be done using Blender. Codecs for video and audio come pre-installed or are automatically fetched. Most of this software is freely available and can be easily and securely installed using Manjaro&amp;rsquo;s integrated package manager.</description>
+    </item>
+    
+    <item>
+      <title>Change everything you need</title>
+      <link>/features/under-your-control/change-everything-you-need/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/under-your-control/change-everything-you-need/</guid>
+      <description>Every person is different and needs an operating system that doesn&amp;rsquo;t try to enforce a specific workflow, visual style or certain programs. Manjaro comes with default settings, that we believe are helpful to most users. But as with most Linux distributions, you still have every option to configure, change, remove or replace whatever you like. Most of these options are directly available via an easy to use configuration program.</description>
+    </item>
+    
+    <item>
+      <title>Choose, install, finished!</title>
+      <link>/features/configured-with-one-click/choose-install-finished/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/configured-with-one-click/choose-install-finished/</guid>
+      <description>Manjaro maintains it&amp;rsquo;s own program to install, update and remove packages from the system. Just open it, choose what you want and click &amp;lsquo;install&amp;rsquo;. Any additionaly required packages will be installed automatically and all you have to do is to start the program.</description>
+    </item>
+    
+    <item>
+      <title>Control Your PC</title>
+      <link>/features/under-your-control/control-your-pc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/under-your-control/control-your-pc/</guid>
+      <description>As like many other Linux distributions, we believe that privacy, security and keeping control are among the most valuable things for a user. We have included some clever tools to accomplish everything needed to make room for actual work, entertainment and relaxation. But you, the user, will always be in control of your own computer. It&amp;rsquo;s your hardware and your operating system.</description>
+    </item>
+    
+    <item>
+      <title>Divide and conquer</title>
+      <link>/features/configured-with-one-click/divide-and-conquer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/configured-with-one-click/divide-and-conquer/</guid>
+      <description>If multiple people use your computer, just create an account for each of them. Each user has their personal storage and appropriate permissions on the system individually.</description>
+    </item>
+    
+    <item>
+      <title>Manjaro speaks your language</title>
+      <link>/features/configured-with-one-click/manjaro-speaks-your-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/configured-with-one-click/manjaro-speaks-your-language/</guid>
+      <description>Manjaro speaks your language! Just start our locale settings and select the language you want. After logging out and in again, everything is exactly the way you want. We also offer a special tool to automatically install language packs for a variety of programs and notifies you about new translations for your favorite programs.</description>
+    </item>
+    
+    <item>
+      <title>New graphics card? One click and it&#39;s done</title>
+      <link>/features/configured-with-one-click/new-graphics-card/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/configured-with-one-click/new-graphics-card/</guid>
+      <description>Manjaro comes with MHWD, the Manjaro Hardware Detection. If you need drivers for your hardware, just open it, click on &amp;ldquo;Auto Install&amp;rdquo; and wait until it&amp;rsquo;s finished. That&amp;rsquo;s it.</description>
+    </item>
+    
+    <item>
+      <title>Switch the core with one click</title>
+      <link>/features/configured-with-one-click/switch-the-core-with-one-click/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/configured-with-one-click/switch-the-core-with-one-click/</guid>
+      <description>Power-users and people who need special features of the Linux Kernel that don&amp;rsquo;t come with the default one, can just switch to a different Kernel with one click. Do you make music or need other realtime features? Just switch to an RT-Kernel. Do you need the newest improved open-source graphics drivers? Just switch to a newer one. Manjaro supports multiple installed Kernels at the same time. Just re-boot your system and make your selection in the boot menu.</description>
+    </item>
+    
+    <item>
+      <title>Traveling a lot?</title>
+      <link>/features/configured-with-one-click/traveling-a-lot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/configured-with-one-click/traveling-a-lot/</guid>
+      <description>If you need to change your system&amp;rsquo;s timezone because you are on holiday or a business trip, we provide you with a handy tool, so you have more time to get things done or simply enjoy life.</description>
+    </item>
+    
+    <item>
+      <title>Under Your Control</title>
+      <link>/features/under-your-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/under-your-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update when you want</title>
+      <link>/features/under-your-control/update-when-you-want/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/under-your-control/update-when-you-want/</guid>
+      <description>When updates are available Manjaro will just show an unobtrusive notification. If you have important work to do, are currently in a ranked game or watching a movie, you can just hide it with one click. &amp;ldquo;Not now&amp;rdquo; for us still means that you don&amp;rsquo;t have time and don&amp;rsquo;t want to update right now. There are no hidden downloads or automatic restarts. Manjaro does exactly what you want.</description>
+    </item>
+    
+    <item>
+      <title>Your data not ours</title>
+      <link>/features/under-your-control/your-data-not-ours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/features/under-your-control/your-data-not-ours/</guid>
+      <description>Manjaro does not send any data to anybody. Why should it? It&amp;rsquo;s your data and you decide what you want to do with it. You can decide if you want to use services that finance themselves with the data you generate. But you also can decide to secure, hide and protect your data and use open source software which is directly available in Manjaro&amp;rsquo;s repositories and has been additionally checked by the package maintainer.</description>
+    </item>
+    
+  </channel>
+</rss>

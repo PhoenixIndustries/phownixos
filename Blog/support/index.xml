@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supports on Manjaro - enjoy the simplicity</title>
+    <link>/support/</link>
+    <description>Recent content in Supports on Manjaro - enjoy the simplicity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Sep 2016 21:03:22 +0200</lastBuildDate>
+    
+	<atom:link href="/support/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Common Problems</title>
+      <link>/support/commonproblems/</link>
+      <pubDate>Mon, 05 Sep 2016 21:03:22 +0200</pubDate>
+      
+      <guid>/support/commonproblems/</guid>
+      <description>Almost nothing is without problems and while our team and our community works hard to get rid of all problems they encounter, some might slip through the cracks or are caused by some external influences. Here are some common problems that other users encountered.
+If you encountered something that is not listed here, You can always visit the Forum. Point out bugs or discuss with other users and try to find a solution.</description>
+    </item>
+    
+    <item>
+      <title>First Steps</title>
+      <link>/support/firststeps/</link>
+      <pubDate>Mon, 05 Sep 2016 21:03:22 +0200</pubDate>
+      
+      <guid>/support/firststeps/</guid>
+      <description>Introduction After you downloaded Manjaro. This guide covers the basic&amp;rsquo;s, If you want more information look into the Manjaro User Guide or the Manjaro Wiki.
+You downloaded Manjaro as an ISO file. An ISO file contains all files Manjaro needs to start an installation compressed into a handy file, which you can then use to make a DVD or USB-Stick that can be run by your computer. This file can be directly used by a virtual machine if you don&amp;rsquo;t want to try out Manjaro on your actual computer, yet.</description>
+    </item>
+    
+    <item>
+      <title>User Guide</title>
+      <link>/support/userguide/</link>
+      <pubDate>Mon, 05 Sep 2016 21:03:22 +0200</pubDate>
+      
+      <guid>/support/userguide/</guid>
+      <description>Our Team and the Community proudly presents you, the Manjaro User Guide. Over 100 page book with everything a new or advanced user can learn about Manjaro. We cover the topics described below.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/support/userguide/subguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/userguide/subguide/</guid>
+      <description>Preparation         Getting Manjaro   Downloading Manjaro   Check downloaded iso image for errors   Writing iso image    ésplit
+Installation         Installing Manjaro   Booting the Live environment   Assisted installation on a BIOS or UEFI system with Calamares   Manual installation on a BIOS or UEFI system with Calamares   Dual-booting with Microsoft Windows 10   Advanced installation methods    ésplit</description>
+    </item>
+    
+    <item>
+      <title>How to install drivers?</title>
+      <link>/support/commonproblems/howtodrivers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/commonproblems/howtodrivers/</guid>
+      <description>          You don&amp;rsquo;t need to download drivers from the internet    Manjaro provides an easy-to-use tool that will do all work for you.    More information about this in our wiki        Install proprietary drivers    • Search for &amp;ldquo;hardware&amp;rdquo; or &amp;ldquo;mhwd&amp;rdquo; in your application menu    • Open &amp;ldquo;Hardware detection&amp;rdquo;    • Click on &amp;ldquo;Auto-Install proprietary&amp;rdquo;    </description>
+    </item>
+    
+    <item>
+      <title>How to install software?</title>
+      <link>/support/commonproblems/howtoinstallsoftware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/commonproblems/howtoinstallsoftware/</guid>
+      <description>          You often don&amp;rsquo;t need to download software from the internet    Manjaro provides an easy-to-use tool that will do all work for you.    More information about this in our wiki        Search and install software    • Search for &amp;ldquo;octopi&amp;rdquo; or &amp;ldquo;pamac&amp;rdquo; in your application menu and open it    • Browse through the list or search using the search bar    • Right-click on the entry and select &amp;ldquo;install&amp;rdquo;    • Click on the &amp;ldquo;apply&amp;rdquo; button or one with a tick mark    More information about this in our wiki pages about Octopi and Pamac    </description>
+    </item>
+    
+    <item>
+      <title>How to run something in terminal?</title>
+      <link>/support/commonproblems/howtoterminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/commonproblems/howtoterminal/</guid>
+      <description>The terminal is a very powerful tool that almost never fails to work and does exactly the things you want from it. You don&amp;rsquo;t click on something in the terminal - You insert a command and it will do what the command say. Many Linux users like to provide solutions via terminal as it&amp;rsquo;s completely independent from the user interface (which you can heavily modify).
+Here are instructions to how to use the terminal to run some command:</description>
+    </item>
+    
+    <item>
+      <title>How to start the installation?</title>
+      <link>/support/commonproblems/howtoinstall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/commonproblems/howtoinstall/</guid>
+      <description>Start the installer    In the Manjaro Welcome dialog you can see an entry called &amp;ldquo;Install&amp;rdquo; or &amp;ldquo;Install with Calamares&amp;rdquo;    Click on it and wait until the installation assistant starts    Our first steps guide provides you further information    If you closed the Manjaro Welcome dialog    Open the application launcher and search for &amp;ldquo;Manjaro&amp;rdquo;    Start Manjaro Welcome, again.</description>
+    </item>
+    
+    <item>
+      <title>Laptop screen is too dark</title>
+      <link>/support/commonproblems/laptop_screen_dark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/commonproblems/laptop_screen_dark/</guid>
+      <description>          This is likely caused by your hardware manufacturer    More information about this in our wiki        Re-activate the backlight    Open a terminal and enter:    sudo sed &amp;quot;s/\(GRUB_CMDLINE_LINUX=\)\&amp;quot;\&amp;quot;/\1\&amp;quot;acpi_osi=Linux acpi_backlight=vendor\&amp;quot;/&amp;quot; /etc/default/grub -i; sudo update-grub    </description>
+    </item>
+    
+    <item>
+      <title>The Manjaro USB-stick or DVD won&#39;t boot</title>
+      <link>/support/commonproblems/cannot_boot_liveenv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/commonproblems/cannot_boot_liveenv/</guid>
+      <description>          Check if you closely followed the instructions    Our first steps guide provides you further information        Maybe your computer needs to be configured to be able to boot    Some manufacturers have by default disabled booting from other devices. If this is the case, you can refer to following information:    • How to Boot Your Computer From a Disc or USB Drive    • BIOS and UEFI - Manjaro Wiki    • Manjaro User Guide    </description>
+    </item>
+    
+    <item>
+      <title>Update or installation fails</title>
+      <link>/support/commonproblems/update_fails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/commonproblems/update_fails/</guid>
+      <description>Check if you are connected with the internet        Maybe the current mirror is not reachable    Open a terminal and enter:    sudo pacman-mirrors -g    More information about this in our wiki        Maybe the cache is full    Some editions come with a cache cleaner.</description>
+    </item>
+    
+    <item>
+      <title>Updating is very slow</title>
+      <link>/support/commonproblems/update_slow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/support/commonproblems/update_slow/</guid>
+      <description>          Check if your internet is not unstable or has some problems        Maybe the current mirror is slow    Open a terminal and enter:    sudo pacman-mirrors -g    More information about this in our wiki        </description>
+    </item>
+    
+  </channel>
+</rss>
