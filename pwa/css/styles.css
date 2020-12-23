@@ -1,0 +1,131 @@
+/* colours */
+:root{
+  --primary: #54c5f8;
+  --secondary: #01579b;
+  --title: #fff;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+textarea {
+  overflow: auto;
+}
+
+textarea.form-control {
+  height: auto;
+}
+
+.check_textarea {
+  resize: none;
+  height: 195px !important;
+  width: 100%;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  background: #fff;
+  outline: none;
+  padding: 10px;
+}
+
+.textarea_box {
+  height: auto !important;
+  border: 1.5px dashed #ccc;
+  background: #fbfbfb;
+  padding: 11px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+  color: white;
+  text-shadow: 2px 2px rgba(0,0,0,.2);
+}
+
+/* layout styles */
+nav{
+  background: var(--primary);
+  /* border-bottom: 10px solid var(--secondary); */
+}
+nav a{
+  text-transform: uppercase;
+  color: var(--title);
+  font-size: 2rem;
+  text-shadow: 2px 2px rgba(0,0,0,.2);
+}
+nav a span{
+  font-weight: bold;
+}
+nav .sidenav-trigger{
+  margin: 0;
+}
+.btn, .btn-large, .btn-small {
+  background-color: #3740ff !important;
+}
+.header-icons a i{
+  padding-left: 24px;
+font-size: 2rem;
+
+}
+.header-icons a i:hover{
+  color: #3740ff;
+}
+
+
+/* recipe styles */
+.recipes{
+  margin-top: 20px;
+}
+.card-panel.recipe{
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0px 1px 3px rgba(90,90,90,0.1);
+  display: grid;
+  grid-template-columns: 2fr 6fr 1fr;
+  grid-template-areas: "image details delete";
+  position: relative;
+}
+.recipe img{
+  grid-area: image;
+  max-width: 60px;
+}
+.recipe-details{
+  grid-area: details;
+  margin-top: 6px;
+}
+.recipe-delete{
+  grid-area: delete;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+.recipe-delete i{
+  font-size: 18px;
+}
+.recipe-title{
+  font-weight: bold;
+}
+.recipe-ingredients{
+  font-size: 0.8em;
+}
+
+/* form-styles */
+.add-btn{
+  background: var(--title) !important;
+}
+input{
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+.side-form button{
+  background: var(--title);
+  box-shadow: 1px 1px 3px rgba(90,90,90,0.2);
+}
+form .input-field{
+  margin-top: 30px;
+}

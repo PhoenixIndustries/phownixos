@@ -1,0 +1,112 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Keyword Editor</title>
+  <!-- materialize icons, css & js -->
+   <!-- Compiled and minified CSS -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+   <link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+   <!-- Compiled and minified JavaScript -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+           
+  <!-- <link type="text/css" href="/css/materialize.min.css" rel="stylesheet"> -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link type="text/css" href="/css/styles.css" rel="stylesheet">
+  <!-- <script type="text/javascript" src="/js/materialize.min.js"></script> -->
+  <link rel="manifest" href="/pwa/manifest.json">
+  <!-- ios support -->
+  <link rel="apple-touch-icon" href="/pwa/img/icons/icon-96x96.png">
+  <meta name="apple-mobile-web-app-status-bar" content="#54c5f8">
+  <meta name="theme-color" content="#54c5f8">
+  
+</head>
+<body class="grey lighten-4">
+
+  <!-- top nav -->
+  <nav class="z-depth-0">
+    <div class="nav-wrapper container">
+      <a href="/">Keyword<span>Editor</span></a>
+      <span class="right grey-text text-darken-1">
+        <i class="material-icons sidenav-trigger" data-target="side-menu">menu</i>
+      </span>
+    </div>
+  </nav>
+
+  <!-- side nav -->
+  <ul id="side-menu" class="sidenav side-menu">
+    <li><a class="subheader">KEYWORD EDITOR</a></li>
+    <li><a href="/" class="waves-effect">Home</a></li>
+    <li><a href="/pages/about.html" class="waves-effect">About</a></li>
+    <li><div class="divider"></div></li>
+    <li><a href="mailto:omsairampriyank@gmail.com" class="waves-effect">
+      <i class="material-icons">mail_outline</i>click hear to mail</a>
+    </li>
+    <li>
+    <div class="header-icons">
+      <a class="waves-effect" aria-label="Send email" href="mailto:omsairampriyank@gmail.com"><i class="icon fa fa-envelope"></i></a>
+      <a class="waves-effect" aria-label="My Instagram" target="_blank" href="https://www.instagram.com/Priyank_Brahmbhatt_/"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
+      <a class="waves-effect" aria-label="My Facebook" target="_blank" href="https://www.facebook.com/Priyank-Brahmbhatt-106945340929605/"><i class="icon fa fa-facebook" aria-hidden="true"></i></a>
+      <a class="waves-effect" aria-label="My LinkedIn" target="_blank" href="https://www.linkedin.com/in/priyank-brahmbhatt-1b2331194/"><i class="icon fa fa-linkedin-square" aria-hidden="true"></i></a>
+      <a class="waves-effect" aria-label="My Github" target="_blank" href="https://github.com/PhoenixIndustries/"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
+    </div></li>
+  </ul>
+
+  <!-- recipes -->
+  <!-- <div class="recipes container grey-text text-darken-1">
+    <div class="card-panel recipe white row">
+      
+      </div>
+      <div class="recipe-delete">
+        <i class="material-icons">delete_outline</i>
+      </div>
+    </div> -->
+    <div class=card></div>
+    <div class="container col-md-12 textarea_box">
+      <div class="input_lable text-left mtn">Enter Keywords...</div>
+      <textarea id="textarea" placeholder="Enter Keywords or copy keywords hear..." name="urls"
+          class="form-control check_textarea"></textarea>
+  </div>
+  <!-- <label>Browser Select</label> -->
+  <select id="TAG" name="TAG" class="container section center btn input-field center browser-default">
+    <option value="" disabled selected>Choose your option</option>
+    <option value='""'>"yourkeyword"</option>
+    <option value="allinanchor:">allinanchor:</option>
+    <option value="allintext:">allintext:</option>
+    <option value="allintitle:">allintitle:</option>
+    <option value="allinurl:">allinurl:</option>
+  </select>
+    <div class="center">
+    <div class="input-field center">
+      <button onfocus="refresh()"class="btn-small">Click Hear</button>
+    </div>
+  </div>
+
+<script>
+  function refresh() {
+      var tag = document.getElementById("TAG").value;
+      var str = document.getElementById("textarea").value;
+      var lines = str.split("\n");
+      console.log(document.getElementById("textarea").value);
+      if(document.getElementById("textarea").value === ""){
+        alert("Please enter text");
+      }
+       {
+      for(var i=0; i<lines.length; i++) {
+         // lines[i] = "\"" + lines[i] + "\"& _";
+         if(tag === '""'){
+          lines[i] = "\"" + lines[i] + "\"";
+         }
+         else{
+         lines[i] = tag + lines[i];}
+          }
+          document.getElementById("textarea").value = lines.join("\n");
+
+      }};
+</script>
+
+  <script src="/js/app.js"></script>
+  <script src="/js/ui.js"></script>
+</body>
+</html>

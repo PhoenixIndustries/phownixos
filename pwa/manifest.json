@@ -1,0 +1,65 @@
+{
+  "name": "Keyword Editor",
+  "short_name": "KeywordEditor",
+  "start_url": "/pwa/index.html",
+  "display": "standalone",
+  "background_color": "#54c5f8",
+  "theme_color": "#54c5f8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/pwa/img/icons/icon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x71",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/img/icons/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x95",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/img/icons/icon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x127",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/img/icons/icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x143",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/img/icons/icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x150",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/img/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/img/icons/icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/img/icons/icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa/img/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
